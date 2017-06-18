@@ -15,4 +15,4 @@ local-master-1 commit 4 远程分支和本地分支local-master-1同名
 local-master-1 commit 5
 local-master-1 commit 6
 
-
+anoter local project: local dawei-master commit 1
